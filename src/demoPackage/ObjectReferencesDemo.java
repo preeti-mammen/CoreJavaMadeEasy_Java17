@@ -1,3 +1,4 @@
+package demoPackage;
 
 public class ObjectReferencesDemo {
 	int x;
